@@ -21,10 +21,10 @@ jobs:
           java-version: 18
           maven-version: 3.9.5
 
-      - name: Install and Run Appium Server
-        run: |
-          chmod +x ./RunAppiumServer.sh
-          ./RunAppiumServer.sh
+#      - name: Install and Run Appium Server
+#        run: |
+#          chmod +x ./RunAppiumServer.sh
+#          ./RunAppiumServer.sh
 
       - name: Execute e2e tests
         run: mvn clean install
