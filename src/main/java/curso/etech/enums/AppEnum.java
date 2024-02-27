@@ -36,6 +36,7 @@ public enum AppEnum implements AppInt {
             capabilities.setCapability("device", "Samsung Galaxy S23 Ultra");
             capabilities.setCapability("app", "bs://3ad20d70fed5508bf59754aa125de71618ca8a8c");
             capabilities.setCapability("deviceName", "Emulador E.Tech");
+            capabilities.setCapability("automationName", "UiAutomator2");
             capabilities.setCapability("project", "Etech cursos");
             capabilities.setCapability("build", "Etech Android Cursos");
             capabilities.setCapability("name", "Etech e2e");
