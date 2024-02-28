@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 28 14:20:34 GMT 2024","Wed Feb 28 14:21:08 GMT 2024","33890","","Login","","Validar login na aplicação","","Validar login na aplicação",""
+"passed","Wed Feb 28 14:20:34 GMT 2024","Wed Feb 28 14:21:08 GMT 2024","33983","","","","","","Validar login na aplicação",""
